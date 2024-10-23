@@ -1,4 +1,7 @@
-# Master's-thesis-of-Meng
+# Master's-thesis-of-Meng  
+
+[简体中文](README.md) | English  
+
 Ensemble-based data assimilation algorithms are among the most favored techniques
 for aquifer parameter identification due to their widespread application across various
 hydrogeological challenges. Nonetheless, the intrinsic assumptions of linear systems and
