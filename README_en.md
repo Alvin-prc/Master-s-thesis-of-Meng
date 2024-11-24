@@ -1,4 +1,4 @@
-# Master's-thesis-of-Meng  
+# Identification of Non-Gaussian Aquifer Parameters Based on an Improved Ensemble Smoother
 
 [简体中文](README.md) | English  
 
